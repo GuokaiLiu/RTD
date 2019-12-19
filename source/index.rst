@@ -2,5 +2,5 @@
    :maxdepth: 2
    :caption: Contents:
    
-   initial
+   GithubInit
    
