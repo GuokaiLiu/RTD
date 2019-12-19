@@ -98,7 +98,7 @@ latex_elements={# The paper size ('letterpaper' or 'a4paper').
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'python3-cookbook.tex', 'HUST',
+  ('index', 'python3-cookbook.tex', u'《Python拾光小屋》',
    u'guokliu@gmail.com', 'howto'),
 ]
 
@@ -107,7 +107,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'python3-cookbook', 'HUST',
+    ('index', 'python3-cookbook', u'《Python拾光小屋》',
      [u'guokliu@gmail.com'], 1)
 ]
 
