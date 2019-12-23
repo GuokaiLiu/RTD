@@ -24,5 +24,7 @@ File Exchange Community
 
 - `SES analysis with CPS pre-whitening <https://www.mathworks.com/matlabcentral/fileexchange/71455-ses-analysis-with-cps-pre-whitening>`_
 
+- `Using MATLAB for Bearing Fault Analysis <https://ww2.mathworks.cn/matlabcentral/fileexchange/34385-using-matlab-for-bearing-fault-analysis?product=EL>`_
+
 
 
