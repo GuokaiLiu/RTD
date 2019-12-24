@@ -29,6 +29,8 @@ Functions
 
 - `pkurtosis | Spectral kurtosis from signal or spectrogram <https://www.mathworks.com/help/signal/ref/pkurtosis.html>`_
 
+- `kurtogram | Visualize spectral kurtosis <https://www.mathworks.com/help/signal/ref/kurtogram.html>`_
+
 File Exchange Community
 -----------------------
 
