@@ -7,6 +7,12 @@ Fault Frequency
 .. literalinclude:: scratches/phm/FaultFreq.py
 
 
+Demo
+----
+- `Rolling Element Bearing Fault Diagnosis <https://ww2.mathworks.cn/help/signal/examples/rolling-element-bearing-fault-diagnosis.html>`_
+
+
+
 
 Functions
 ---------
