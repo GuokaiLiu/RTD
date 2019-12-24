@@ -31,6 +31,12 @@ Functions
 
 - `kurtogram | Visualize spectral kurtosis <https://www.mathworks.com/help/signal/ref/kurtogram.html>`_
 
+- `pkurtosis | Spectral kurtosis from signal or spectrogram <https://www.mathworks.com/help/signal/ref/pkurtosis.html>`_
+
+- `filter | 1-D digital filter <https://www.mathworks.com/help/matlab/ref/filter.html>`_
+
+- `kurtosis | Kurtosis <https://www.mathworks.com/help/stats/kurtosis.html>`_
+
 File Exchange Community
 -----------------------
 
