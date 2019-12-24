@@ -10,9 +10,10 @@ Fault Frequency
 
 
 Demo
-----
+-----
 
 - `Rolling Element Bearing Fault Diagnosis <https://ww2.mathworks.cn/help/signal/examples/rolling-element-bearing-fault-diagnosis.html>`_
+- `Vibration Analysis of Rotating Machinery <https://www.mathworks.com/help/signal/examples/vibration-analysis-of-rotating-machinery.html>`_
 
 
 
