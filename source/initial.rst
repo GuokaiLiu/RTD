@@ -44,5 +44,10 @@ File Exchange Community
 
 - `Using MATLAB for Bearing Fault Analysis <https://ww2.mathworks.cn/matlabcentral/fileexchange/34385-using-matlab-for-bearing-fault-analysis?product=EL>`_
 
+- `Autogram <https://www.mathworks.com/matlabcentral/fileexchange/65413-autogram>`_
+
+- `Fast Kurtogram <https://www.mathworks.com/matlabcentral/fileexchange/48912-fast-kurtogram>`_
+- `Fast spectral correlation <https://www.mathworks.com/matlabcentral/fileexchange/60561-fast_sc-x-nw-alpha_max-fs-opt>`_
+
 
 
